@@ -6,7 +6,6 @@
 
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="sagar9753" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar9753&label=Profile%20views&color=0e75b6&style=flat" alt="sagar9753" /> </p>
 
 - 🌆 I'm from Indore
 
