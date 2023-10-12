@@ -1,4 +1,4 @@
-![logo](https://wallpapertag.com/wallpaper/full/e/e/e/405846-coding-wallpaper-2000x1080-for-android.jpg)
+![sagar](https://github.com/sagar9753/sagar9753/assets/100395121/df9f4bf0-532b-4b64-96ac-4477a9b39f5f)
 
 <h1 align="center">Hi 👋, I'm Sagar Rajput</h1>
 <h3 align="center">A Coder,developer from India</h3>
