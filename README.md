@@ -7,7 +7,7 @@
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="sagar9753" />
 
 
-- 🌆 I'm from Indore
+- 🌆 I'm from Indore 
 
 - 🌱 I'm currently learning **Data Structure and MERN**
 
